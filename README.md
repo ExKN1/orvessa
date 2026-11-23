@@ -78,6 +78,10 @@ Este é um **repositório público de apresentação**. O código-fonte completo
 
 Não há uma versão jogável pública ou instruções de instalação disponibilizadas aqui neste momento.
 
+## Roadmap
+
+Confira os próximos marcos no [roadmap do projeto](ROADMAP.md).
+
 ## Autor
 
 **Enzo Ramos de Almeida**  
