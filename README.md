@@ -1,6 +1,10 @@
-# ORVESSA
+<p align="center">
+  <img src="logo.png" alt="Logo do ORVESSA" width="450">
+</p>
 
-**RPG online em desenvolvimento para Roblox.**
+<p align="center">
+  <strong>RPG online em desenvolvimento para Roblox.</strong>
+</p>
 
 ORVESSA é um projeto de jogo de fantasia com foco em exploração, progressão do personagem e escolhas narrativas. Este repositório apresenta a proposta e o desenvolvimento do projeto para fins de portfólio.
 
