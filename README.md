@@ -82,6 +82,10 @@ Não há uma versão jogável pública ou instruções de instalação disponibi
 
 Confira os próximos marcos no [roadmap do projeto](ROADMAP.md).
 
+## Histórico de atualizações
+
+Confira as mudanças no [changelog do projeto](CHANGELOG.md).
+
 ## Autor
 
 **Enzo Ramos de Almeida**  
